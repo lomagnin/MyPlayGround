@@ -6,7 +6,7 @@
 <script type="text/javascript">
 // JavaScript example
 
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
+document.getElementById("Title").innerHTML = "Hello JavaScript!";
 </script>
 
 ## Subtitle
